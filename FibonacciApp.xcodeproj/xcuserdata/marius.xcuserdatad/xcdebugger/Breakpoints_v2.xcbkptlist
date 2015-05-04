@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FibonacciApp/ViewController.swift"
+            timestampString = "452449631.332229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FibonacciApp.ViewController.fibonacciSequence.setter : FibonacciApp.FibonacciSequence"
+                  moduleName = "FibonacciApp"
+                  urlString = "file:///Users/marius/dev/thinkful_swift/FibonacciApp/FibonacciApp/ViewController.swift"
+                  timestampString = "452451380.355943"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FibonacciApp.ViewController.fibonacciSequence.materializeForSet : FibonacciApp.FibonacciSequence"
+                  moduleName = "FibonacciApp"
+                  urlString = "file:///Users/marius/dev/thinkful_swift/FibonacciApp/FibonacciApp/ViewController.swift"
+                  timestampString = "452451380.356227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "25">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FibonacciApp.ViewController.init (FibonacciApp.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; FibonacciApp.ViewController"
+                  moduleName = "FibonacciApp"
+                  urlString = "file:///Users/marius/dev/thinkful_swift/FibonacciApp/FibonacciApp/ViewController.swift"
+                  timestampString = "452451380.356675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FibonacciApp.ViewController.init (FibonacciApp.ViewController.Type)() -&gt; FibonacciApp.ViewController"
+                  moduleName = "FibonacciApp"
+                  urlString = "file:///Users/marius/dev/thinkful_swift/FibonacciApp/FibonacciApp/ViewController.swift"
+                  timestampString = "452451380.3569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FibonacciApp.ViewController.init (FibonacciApp.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; FibonacciApp.ViewController"
+                  moduleName = "FibonacciApp"
+                  urlString = "file:///Users/marius/dev/thinkful_swift/FibonacciApp/FibonacciApp/ViewController.swift"
+                  timestampString = "452451380.357124"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
